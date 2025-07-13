@@ -6,6 +6,31 @@
 </head>
 <body>
     <h1>Switchel</h1>
+    <img src="https://i0.wp.com/trailcooking.com/wp-content/uploads/2019/12/img_20191211_120835_541.jpg?fit=982%2C982&ssl=1"
+    alt="Mason Jar full of black liquid on a green natural background"
+    width="256" height="256">
+    <p>Image pulled from <a href="https://trailcooking.com/2019/12/11/unusual-recipes-switchel-syrup/">trailcooking.com</a></p>
+    <h2>Description</h2>
+    <p>Switchel is a cold brew drink sharing common roots to shrub and kombucha,
+        differing in the chosen sweetener.  While most shrub drinks use fruit
+        pastes, Swichel uses molasses, honey, or maple syrup!  It is a common
+        drink in the South for farm workers and day laborers.
+    </p>
+    <h2>Ingredients</h2>
+    <ul>
+        <li>1 1/2 gallons Water</li>
+        <li>2 cups Molasses</li>
+        <li>1 cup Apple Cider Vinegar</li>
+        <li>2 Tablespoons Ginger</li>
+        <li>1/2 teaspoon salt</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol type="I">
+        <li>Grind ginger.</li>
+        <li>Mix molasses, vinegar, ginger, and salt, stir until homogenous.</li>
+        <li>Mix with water.  Again, mix until homogenous</li>
+        <li>Chill in the fridge overnight.</li>
+    </ol>
 
     <a href="../index.html">Home</a>
 </body>
